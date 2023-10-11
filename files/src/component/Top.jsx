@@ -10,6 +10,9 @@ import '../App.css'
 import Timeline from './Timeline'
 import Reward from './Reward'
 const Top = () => {
+
+    
+
   return (
     <Stack sx={{ textAlign:'center', color:'white', fontSize:'18px', width:'90%', margin:'auto'}}>
         <Box sx={{

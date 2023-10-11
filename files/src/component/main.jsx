@@ -8,7 +8,7 @@ import Sidebar from './Sidebar';
 const Main = () => {
   return (
     <Stack sx={{
-      width:{sx:'80%'},
+      width:{sx:'70%'},
       background: 'black',
       height:'100%'
       
